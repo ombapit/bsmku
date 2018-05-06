@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "374863388095",
+    "firebase_url": "https://bsmku-project.firebaseio.com",
+    "project_id": "bsmku-project"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374863388095:android:015d317cadfef8fd",
+        "android_client_info": {
+          "package_name": "com.bsmku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374863388095-2qvafd95jvc4m994ue1perr069kfusb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkbWnrHWg2DmyWdqu2mYD5CeL3ymBV6TQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374863388095:android:bbdfd33eee7e68ba",
+        "android_client_info": {
+          "package_name": "com.popoye.bsmku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374863388095-2qvafd95jvc4m994ue1perr069kfusb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkbWnrHWg2DmyWdqu2mYD5CeL3ymBV6TQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

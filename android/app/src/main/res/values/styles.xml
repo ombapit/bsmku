@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!-- your app branding color for the app bar -->
+
+        <!-- sets cursor color -->
+        <item name="colorControlActivated">@color/white</item>
+        <item name="colorControlHighlight">@android:color/white</item>
+    </style>
+
+</resources>
