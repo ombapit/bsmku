@@ -1,3 +1,3 @@
-"# bsmku" 
-Running App:
+"# bsmku"  
+Running App:  
 react-native run-android
